@@ -1,0 +1,36 @@
+body {
+  background-color: whitesmoke;
+}
+#body {
+  padding-left: 0;
+  padding-right: 0;
+  border: 1px black solid;
+}
+#somethingIDK {
+  border-top: 1px black solid;
+  border-bottom: 1px black solid;
+}
+#para1 {
+  text-align: center;
+}
+#topRight,
+#bottomRight {
+  text-align: right;
+}
+#cardContainer {
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 1%;
+  border-bottom: 1px black solid;
+  border-top: 1px black solid;
+}
+#testing,
+#card1 {
+  text-align: left;
+}
+#part1,
+#part2,
+#part3 {
+  border-bottom: 1px black solid;
+  padding: 5px;
+}
